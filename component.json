@@ -1,0 +1,13 @@
+{
+  "name": "ngTagsInput",
+  "version": "2.0.0",
+  "repo": "mbenford/ngTagsInput",
+  "description": "Tags input directive for AngularJS",
+  "main": "build/ng-tags-input.min.js",
+  "scripts": [
+    "build/ng-tags-input.min.js"
+  ],
+  "styles": [
+    "build/ng-tags-input.min.css"
+  ]
+}
